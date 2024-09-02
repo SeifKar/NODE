@@ -1,0 +1,1 @@
+This repository contains a series of guided exercises to introduce Node.js. Each task is implemented in a separate file.
